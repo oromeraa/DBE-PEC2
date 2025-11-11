@@ -1,0 +1,2 @@
+/* @license GPL-2.0-or-later https://www.drupal.org/licensing/faq */
+.layout--fourcol-section{display:grid;gap:var(--grid-gap);grid-template-columns:var(--layout-fourcol-grid);}@media (min-width:43.75rem){.layout--fourcol-section{--layout-fourcol-grid:repeat(2,minmax(0,1fr));}}@media (min-width:62.5rem){.layout--fourcol-section{--layout-fourcol-grid:repeat(4,minmax(0,1fr));}}
